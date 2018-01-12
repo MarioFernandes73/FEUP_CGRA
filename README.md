@@ -21,39 +21,49 @@ The students are expected to learn the following topics:
   The project started out with simple 2D geomethrical shapes:
   
   ![alt text](TP1/CGFImage-tp1-1.1.png)
+  
   Fig1 - Basic 2D shape.
   
   ![alt text](TP1/CGFImage-tp1-5.4.png)
+  
   Fig2 - A table.
   
   Quickly evolved to a pleasant scene:
   
   ![alt text](TP2/CGFImage-tp2-T4G07-3.4.png)
+  
   Fig3 - A classroom scene.
   
   ![alt text](TP3/CGFImage-tp3-T4G07-extra.png)
+  
   Fig4 - A classroom scene with columns (note that the columns are actually polygons, yet one can be made to look like a cylinder).
   
   ![alt text](TP4/CGFImage-tp4-T4G07-extra.png)
+  
   Fig5 - A classroom scene with textures.
   
   And then an animation was added
     
   ![alt text](TP5/CGFImage-tp5-T4G07-extra-falling.png)
+  
   Fig6 - A falling paper plane.
     
   ![alt text](TP5/CGFImage-tp5-T4G07-extra-flying.png)
+  
   Fig7 - A flying paper plane.
     
   ![alt text](TP5/CGFImage-tp5-T4G07-extra-onTheFloor.png)
+  
   Fig8 - A paper plane on the floor.
   
   The final project was a different environment and was expected to have all of the previous elements involved. The resulting scene was a submarine underwater that could move itself with W,A,S,D keys and even shoot torpedos at red targets!
   
   ![alt text](TP6/CGFImage-tp6-T4G07-4.3.png)
+  
   Fig9 - Submarine scene.
     
   ![alt text](TP6/CGFImage-tp6-T4G07-6.5.png)
+  
   Fig10 - Submarine shooting a target and exploding it.
   
 Credits:
