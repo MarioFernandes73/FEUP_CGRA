@@ -56,3 +56,6 @@ The students are expected to learn the following topics:
   ![alt text](TP6/CGFImage-tp6-T4G07-6.5.png)
   Fig10 - Submarine shooting a target and exploding it.
   
+Credits:
+* [Mário Fernandes](https://github.com/MarioFernandes73)
+* [Nelson Almeida](https://github.com/PoiSoNz)
